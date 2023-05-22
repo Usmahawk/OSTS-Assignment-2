@@ -1,0 +1,575 @@
+Name_of_Covered_Entity	State	Individuals_Affected	Date_of_Breach	Month	Year	Type_of_Breach
+Brooke Army Medical Center TX 1000 10/16/2009 Theft 10 2009
+Mid America Kidney Stone Association, LLC MO 1000 9/22/2009 Theft 9 2009
+L. Douglas Carlson, M.D. CA 5257 9/27/2009 Theft 9 2009
+David I. Cohen, MD CA 857 9/27/2009 Theft 9 2009
+Michele Del Vicario, MD CA 6145 9/27/2009 Theft 9 2009
+Joseph F. Lopez, MD CA 952 9/27/2009 Theft 9 2009
+Mark D. Lurie, MD CA 5166 9/27/2009 Theft 9 2009
+City of Hope National Medical Center CA 5900 9/27/2009 Theft 9 2009
+The Children's Hospital of Philadelphia PA 943 10/20/2009 Theft 10 2009
+Kern Medical Center CA 596 10/31/2009 Theft 10 2009
+Detroit Department of Health and Wellness Promotion MI 10000 10/22/2009 Theft 10 2009
+Detroit Department of Health and Wellness Promotion MI 646 11/26/2009 Theft 11 2009
+University of California, San Francisco CA 610 9/22/2009 Other 9 2009
+BlueCross BlueShield Association DC 3400 10/26/2009 Theft 10 2009
+Goodwill Industries of Greater Grand Rapids, Inc. MI 10000 12/15/2009 Theft 12 2009
+Children's Medical Center of Dallas TX 3800 11/19/2009 Loss 11 2009
+Concentra TX 900 11/19/2009 Theft 11 2009
+Advocate Health Care IL 812 11/24/2009 Theft 11 2009
+The Methodist Hospital TX 689 1/18/2010 Theft 1 2010
+University of California, San Francisco CA 7300 11/30/2009 Theft 11 2009
+Carle Clinic Association IL 1300 1/13/2010 Theft 1 2010
+Educators Mutual Insurance Association of Utah  UT 5700 12/27/2009 Theft 12 2009
+University Medical Center of Southern Nevada NV 5103 10/31/2009 Theft 10 2009
+Center for Neurosciences AZ 1100 12/15/2009 Theft 12 2009
+Cardiology Consultants/Baptist Health Care Corporation FL 8000 12/19/2009 Theft 12 2009
+State of TN, Bureau of TennCare TN 3900 12/23/2009 Theft 12 2009
+Advanced NeuroSpinal Care CA 3500 12/30/2009 Theft 12 2009
+Shands at UF FL 12580 1/27/2010 Theft 1 2010
+Thrivent Financial for Lutherans WI 9500 1/29/2010 Theft 1 2010
+North Carolina Baptist Hospital NC 554 2/15/2010 Theft 2 2010
+Montefiore Medical Center NY 625 2/20/2010 Theft 2 2010
+Ernest T. Bice, Jr. DDS, P.A. TX 21000 2/20/2010 Theft 2 2010
+Lee Memorial Health System FL 3800 1/29/2010 Other 1 2010
+Laboratory Corporation of America / US LABS / Dianon Systems, Inc AZ 2773 2/18/2010 Theft 2 2010
+Beatrice Community Hospital and Health Center NE 660 3/19/2010 Other 3 2010
+Affinity Health Plan, Inc. NY 344579 11/24/2009 Theft 11 2009
+Tomah Memorial Hospital WI 600 3/19/2010 Other 3 2010
+Praxair Healthcare Services, Inc. (Home Care Supply in NY) CT 54165 2/18/2010 Theft 2 2010
+Massachusetts Eye and Ear Infirmary MA 3594 2/19/2010 Theft 2 2010
+Blue Cross & Blue Shield of Rhode Island RI 12000 12/20/2009 Theft 12 2009
+South Carolina Department of Health and Environmental Control SC 2850 2/17/2010 Improper Disposal 2 2010
+Medical Center At Bowling Green KY 5148 3/24/2010 Theft 3 2010
+South Texas Veterans Health Care System TX 1430 9/30/2009 Loss 9 2009
+Emergency Healthcare Physicians, Ltd. IL 180111 2/27/2010 Theft 2 2010
+VA Eastern Colorado Health Care System CO 649 1/19/2010 Theft 1 2010
+Miami VA Healthcare System FL 568 1/19/2010 Loss 1 2010
+Georgetown University Hospital DC 2416 3/26/2010 Theft 3 2010
+Veterans Health Administration DC 656 4/22/2010 Theft 4 2010
+State of New Mexico Human Services Department, Medical Assistance Division NM 9600 3/20/2010 Theft 3 2010
+University of Rochester Medical Center and Affiliates NY 2628 4/19/2010 Other 4 2010
+Cincinnati Childrens Hospital Medical Center  OH 60998 3/27/2010 Theft 3 2010
+UnitedHealth Group health plan single affiliated covered entity MN 16291 1/26/2010 Other 1 2010
+Lincoln Medical and Mental Health Center NY 130495 3/24/2010 Theft 3 2010
+St. Jude Children's Research Hospital TN 1745 4/19/2010 Loss 4 2010
+TennCare TN 10515 3/20/2010 Theft 3 2010
+The Children's Medical Center of Dayton OH 1001 4/22/2010 Other 4 2010
+Comprehensive Care Management Corporation NY 1020 4/30/2010 Theft 4 2010
+alma aguado md pa TX 600 5/29/2010 Theft 5 2010
+Mary M. Desch,MD/PathHealer, LTD AZ 5893 5/15/2010 Theft 5 2010
+Children's Hospital & Research Center at Oakland CA 1000 5/25/2010 Other 5 2010
+California Department of Healthcare Services CA 29000 4/29/2010 Loss 4 2010
+Long Island Consultation Center NY 800 5/21/2010 Theft 5 2010
+University of Florida FL 2047 5/24/2010 Other 5 2010
+Department of Health Care Policy & Financing CO 105470 5/17/2010 Theft 5 2010
+Prince William County Community Services (CS) VA 669 6/18/2010 Theft 6 2010
+John Deere Health Benefit Plan for Wage Employees IL 1097 6/24/2010 Other 6 2010
+South Shore Hospital MA 800000 2/26/2010 Loss 2 2010
+Montefiore Medical Center NY 16820 5/22/2010 Theft 5 2010
+DC Chartered Health Plan, Inc DC 540 5/26/2010 Theft 5 2010
+Medina County OB/GYN OH 1200 6/13/2010 Improper Disposal 6 2010
+The University of Texas at Arlington TX 27000 2/19/2009 Hacking 2 2009
+Aetna CT 6372 3/29/2010 Improper Disposal 3 2010
+Charles Mitchell MD TX 6873 6/27/2010 Theft 6 2010
+Humana Inc case 4486 KY 2631 6/25/2010 Other 6 2010
+Carolina Center for Development and Rehabilitation NC 1590 6/24/2010 Theft 6 2010
+Trinity Health Corporation Welfare Benefit Plan MI 1073 3/29/2010 Loss 3 2010
+Texas Children's Hospital TX 694 5/13/2010 Theft 5 2010
+Baylor College of Medicine TX 1646 5/13/2010 Theft 5 2010
+Fort Worth Allergy and Asthma Associates TX 25000 6/29/2010 Theft 6 2010
+Jewish Hospital KY 2089 7/16/2010 Theft 7 2010
+Thomas Jefferson University Hospitals, Inc. PA 21000 6/14/2010 Theft 6 2010
+Idaho Power Group Health Plan ID 5500 3/29/2010 Loss 3 2010
+Loma Linda University School of Dentistry CA 10100 6/13/2010 Theft 6 2010
+Ward A. Morris, DDS WA 2698 7/16/2010 Theft 7 2010
+Chattanooga Family Practice Associates, P.C. TN 1711 7/15/2010 Loss 7 2010
+Yale University CT 1000 7/28/2010 Theft 7 2010
+University of Kentucky KY 2027 6/18/2010 Theft 6 2010
+Cook County Health & Hospitals System IL 7081 5/30/2010 Theft 5 2010
+SunBridge Healthcare Corporation NM 1000 6/26/2010 Theft 6 2010
+Holyoke Medical Center MA 24750 7/26/2010 Improper Disposal 7 2010
+State of Delaware Health Plan DE 22642 8/16/2010 Other 8 2010
+Mayo Clinic MN 1740 7/15/2009 Unauthorized Access 7 2009
+The Kent Center  RI 1361 7/13/2010 Theft 7 2010
+Ault Chiropractic Center IN 2000 9/15/2010 Theft 9 2010
+County of Los Angeles CA 33000 7/29/2010 Theft 7 2010
+Matthew H. Conrad, M.D., P.A. KS 1200 8/20/2010 Theft 8 2010
+United States Air Force OH 2123 7/29/2010 Improper Disposal 7 2010
+St. Vincent Hospital and Health Care Center, Inc. IN 1199 7/25/2010 Theft 7 2010
+Milford Regional Medical Center MA 20000 7/26/2010 Improper Disposal 7 2010
+Alliance HealthCare Services, Inc. CA 1474 7/31/2010 Theft 7 2010
+University of Oklahoma - Tulsa, Neurology Clinic OK 19200 7/28/2010 Hacking 7 2010
+LORENZO BROWN, MD INC. CA 928 8/17/2010 Theft 8 2010
+Milton Pathology Associates, P.C. MA 11000 7/26/2010 Improper Disposal 7 2010
+WESTMED Medical Group NY 578 8/17/2010 Theft 8 2010
+Cumberland Gastroenterology, P.S.C. KY 2200 9/18/2010 Theft 9 2010
+Johns Hopkins University Applied Physics Laboratory (JHU/APL) Medical and Dental Insurance Plan MD 692 6/15/2010 Other 6 2010
+Northridge Hospital Medical Center CA 716 10/16/2010 Loss 10 2010
+Sta-home Health & Hospice MS 1104 9/16/2010 Theft 9 2010
+VNA of Southeastern Ct. CT 12000 9/30/2010 Theft 9 2010
+Prime Home Care, LLC NE 1550 9/13/2010 Theft 9 2010
+Visiting Nurse Service Association of Schenectady County NY 535 9/14/2010 Theft 9 2010
+Robert Wheatley, DDS, PC MO 1400 10/17/2010 Theft 10 2010
+Henry Ford Hospital MI 3700 9/24/2010 Theft 9 2010
+Holy Cross Hospital FL 1500 7/27/2010 Theft 7 2010
+Memorial Hospital of Gardena CA 771 10/14/2010 Unauthorized Access 10 2010
+Albert Einstein Healthcare Network PA 613 10/21/2010 Theft 10 2010
+Kings County Hospital Center NY 542 8/22/2010 Theft 8 2010
+University of Tennessee Medical Center TN 8200 9/23/2009 Improper Disposal 9 2009
+Ochsner Health System LA 9475 9/27/2010 Unauthorized Access 9 2010
+zarzamora family dental care TX 800 10/15/2010 Theft 10 2010
+Gary C. Spinks, DMD, PC MD 1000 9/29/2010 Hacking 9 2010
+Riverside Mercy Hospital and Ohio/Mercy Diagnostics OH 1000 3/29/2003 Improper Disposal 3 2003
+Osceola Medical Center WI 585 11/25/2010 Unauthorized Access 11 2010
+Our Lady of Peace Hospital KY 24600 3/31/2010 Theft 3 2010
+International Union of Operating Engineers Health and Welfare Fund  MD 800 10/25/2010 Theft 10 2010
+Southern Perioperative Services, P.C. AL 2000 11/17/2010 Theft 11 2010
+Keystone/AmeriHealth Mercy Health Plans PA 808 9/20/2010 Loss 9 2010
+Ankle + Foot Center of Tampa Bay, Inc. FL 156000 10/28/2010 Theft 10 2010
+Friendship Center Dental Office FL 2200 12/19/2010 Theft 12 2010
+Franciscan Medical Group WA 1250 11/18/2010 Theft 11 2010
+Lake Woods Nursing & Rehabilitation Center MI 656 12/28/2010 Theft 12 2010
+Benefit Resources, Inc. SC 16200 10/13/2010 Loss 10 2010
+Baptist Memorial Hospital - Huntingdon TN 4800 11/27/2010 Theft 11 2010
+Grays Harbor Pediatrics, PLLC WA 12009 11/23/2010 Theft 11 2010
+Hanger Prosthetics & Orthotics, Inc. TX 4486 11/24/2010 Theft 11 2010
+Jefferson Center for Mental Health CO 546 12/13/2010 Theft 12 2010
+New York City Health & Hospitals Corporation's North Bronx Healthcare Network NY 1700000 12/23/2010 Theft 12 2010
+Walgreen Co. IL 2700 1/26/2011 Theft 1 2011
+Mountain Vista Medical Center AZ 2291 10/13/2010 Loss 10 2010
+Departamento de Salud de Puerto Rico PR 2621 3/14/2010 Unknown 3 2010
+Henry Ford Hospital MI 2777 1/31/2011 Loss 1 2011
+TRICARE Management Activity CO 4500 6/25/2010 Unauthorized Access 6 2010
+Blue Cross and Blue Shield of Florida  FL 7366 10/16/2010 Unknown 10 2010
+University Health Services, University of Massachusetts, Amherst MA 942 9/29/2010 Unauthorized Access 9 2010
+Omnicare, Inc KY 8845 1/19/2011 Theft 1 2011
+JEFFREY J. SMITH, MD OK 600 11/24/2010 Loss 11 2010
+Texas Health Arlington Memorial Hospital TX 654 12/23/2010 Unknown 12 2010
+NYU School of Medicine Faculty Group Practice NY 670 1/27/2011 Theft 1 2011
+Clarksburg - Louis A. Johnson VA Medical Center WV 1470 10/26/2010 Unauthorized Access 10 2010
+County of Los Angeles CA 667 2/23/2011 Theft 2 2011
+Park Avenue Obstetrics & Gynecology, PC AZ 635 3/25/2011 Theft 3 2011
+MidState Medical Center CT 93500 2/14/2011 Loss 2 2011
+Patient Care Services at Saint Francis, Inc. OK 84000 1/13/2011 Theft 1 2011
+Union Security Insurance Company MO 935 2/18/2011 Unauthorized Access 2 2011
+Aiken Community Based Outpatient Clinic SC 2717 2/16/2011 Improper Disposal 2 2011
+Health Net, Inc. CA 1900000 1/21/2011 Unknown 1 2011
+Fairview Health Services MN 1215 2/19/2011 Loss 2 2011
+Community Action partnership of Natrona County WY 15000 2/23/2011 Hacking 2 2011
+Keith & Fisher, DDS, PA NC 6000 2/16/2011 Hacking 2 2011
+Methodist Charlton Medical Center TX 1500 4/16/2011 Theft 4 2011
+Union Security Insurance Company MO 850 3/24/2011 Unauthorized Access 3 2011
+Indiana Regional Medical Center PA 1388 9/28/2010 Theft 9 2010
+CVS CAREMARK AZ 654 1/17/2011 Theft 1 2011
+Imaging Center of Garland TX 1031 3/15/2011 Improper Disposal 3 2011
+New York State Department of Health NY 550 4/17/2011 Theft 4 2011
+St. Mary's Hospital for Children NY 550 4/17/2011 Theft 4 2011
+VA Caribbean Healthcare System PR 6006 3/30/2011 Theft 3 2011
+Blue Cross Blue Shield of Michigan MI 11387 11/17/2010 Unauthorized Access 11 2010
+Spartanburg Regional Healthcare System SC 400000 3/28/2011 Theft 3 2011
+Saint Joseph - Berea KY 1986 4/14/2011 Theft 4 2011
+Navos WA 2700 3/15/2011 Unknown 3 2011
+Metropolitan Community Health Services, Inc. NC 1263 5/18/2011 Unknown 5 2011
+FOOTHILLS NEPHROLOGY, PC SC 1280 4/28/2011 Theft 4 2011
+Sutter Gould Medical Foundation (SGMF) CA 1192 5/23/2011 Loss 5 2011
+Silverpop Systems Inc. Health and Welfare Plan GA 884 4/15/2011 Theft 4 2011
+HealthCare Partners CA 15677 4/17/2011 Theft 4 2011
+University of Missouri Health Care MO 1288 6/14/2011 Unknown 6 2011
+Gail Gillespie and Associates, LLC LA 2000 6/25/2011 Theft 6 2011
+Health Plan of San Mateo CA 694 4/25/2011 Unauthorized Access 4 2011
+Yanez Dental Corporation CA 10190 5/22/2011 Theft 5 2011
+Troy Regional Medical Center AL 880 3/22/2011 Unauthorized Access 3 2011
+Dr Axel Velez PR 2800 6/19/2011 Theft 6 2011
+Beth Israel Deaconess Medical Center MA 2021 4/17/2011 Hacking 4 2011
+Andersen Air Force Base, Guam VA 700 5/13/2011 Improper Disposal 5 2011
+Health Care Service Corporation IL 501 6/28/2011 Theft 6 2011
+Brigham and Women's Hospital and Faulkner Hospital  MA 638 6/21/2011 Theft 6 2011
+Monmouth Medical Center NJ 6443 6/24/2011 Theft 6 2011
+Clara Maass Medical Center NJ 8795 6/24/2011 Theft 6 2011
+Newark Beth Israel Medical Center NJ 15015 6/24/2011 Theft 6 2011
+Saint Barnabas Medical Center NJ 6179 6/24/2011 Theft 6 2011
+Kimball Medical Center NJ 6785 6/24/2011 Theft 6 2011
+Community Medical Center NJ 6950 6/24/2011 Theft 6 2011
+Texas Health Presbtyerian Hospital Flower Mound TX 10345 6/21/2011 Theft 6 2011
+Cook County Health & Hospitals System IL 32008 6/24/2011 Theft 6 2011
+Lexington VAMC KY 1432 5/23/2011 Theft 5 2011
+Dr. Victoria Falcone, Falcone Cosmetic Services, PC, Falcone Cosmetic Services of NJ, PC PA 3000 8/14/2011 Theft 8 2011
+Muir Orthopaedic Specialists, A Medical Group Inc. CA 1800 7/27/2011 Theft 7 2011
+Jonathan Noel MD IN 2059 7/13/2011 Theft 7 2011
+University of Wisconsin Oshkosh WI 3000 7/18/2011 Hacking 7 2011
+VA Gulf Coast Veterans Health Care System MS 1797 7/21/2011 Theft 7 2011
+Freda J Bowman  MD PA TX 1300 9/20/2011 Unauthorized Access 9 2011
+United States Steel Corporation Plan for Active Employee Insurance Benefits and the United States Steel Corporation Plan for Retiree Insurance Benefits PA 4000 8/15/2011 Loss 8 2011
+VA Illiana Health Care System IL 518 7/14/2011 Loss 7 2011
+Health Texas Provider Network TX 1259 7/27/2011 Theft 7 2011
+NYU Hospital for Joint Diseases Inventory Management Department NY 2600 6/23/2011 Theft 6 2011
+American Continental Insurance Company TN 690 7/28/2011 Theft 7 2011
+United of Omaha Life Insurance Company NE 1631 7/28/2011 Loss 7 2011
+Mutual of Omaha Insurance Company NE 705 7/28/2011 Theft 7 2011
+Indiana University IN 3266 8/16/2011 Theft 8 2011
+Adult & Pediatric Dermatology, PC MA 2200 9/14/2011 Theft 9 2011
+California Industrial Medicine, Inc. CA 700 9/28/2011 Theft 9 2011
+InStep Foot Clinic, P.A. MN 2600 8/28/2011 Theft 8 2011
+North Memorial MN 6697 7/25/2011 Theft 7 2011
+UnitedHealth Group health plan single affiliated covered entity MN 3994 7/28/2011 Theft 7 2011
+Amerigroup Community Care of New Mexico, Inc NM 1537 7/15/2011 Theft 7 2011
+Spectrum Health Ssytems, Inc.   MA 14750 8/24/2011 Theft 8 2011
+Conway Regional Medical Center AR 1472 8/24/2011 Loss 8 2011
+Stone Oak Urgent Care & Family Practice TX 6672 10/23/2011 Theft 10 2011
+Brevard Emergency Services, P.A. FL 2200 8/26/2011 Theft 8 2011
+Morris Heights Health Center NY 927 8/27/2011 Theft 8 2011
+network180 MI 1100 9/16/2011 Theft 9 2011
+Premier Imaging NC 551 9/14/2011 Unknown 9 2011
+Julie A. Kennedy, D.M.D., P.A. FL 2900 9/30/2011 Theft 9 2011
+TRICARE Management Activity (TMA) VA 4900000 9/13/2011 Loss 9 2011
+Sutter Medical Foundation AL 943434 10/15/2011 Theft 10 2011
+Medcenter One ND 650 10/21/2011 Theft 10 2011
+University of Kentucky UK HealthCare KY 878 9/25/2011 Loss 9 2011
+University of Nebraska Medical Center NE 611 11/15/2011 Theft 11 2011
+Roberts S. Smith M.D. Inc. GA 17000 10/17/2011 Theft 10 2011
+Molina Healthcare of California CA 11081 9/23/2009 Other 9 2009
+Aegis Sciences Corporation TN 2185 11/22/2011 Theft 11 2011
+Soundpath Health, Inc WA 7581 11/22/2011 Theft 11 2011
+Concentra Health TX 870 11/30/2011 Theft 11 2011
+Sleep HealthCenters LLC MA 2988 11/23/2011 Theft 11 2011
+PBH NC 50000 11/15/2011 Unauthorized Access 11 2011
+Oldendorf Medical Services, PLLC NY 549 1/17/2012 Theft 1 2012
+St.Vincent Physician Network IN 1423 12/01/2010-11/21/2011 Theft 12 2010
+Flex Physical Therapy WA 3100 12/30/2011 Theft 12 2011
+University of Miami  FL 1219 11/24/2011 Theft 11 2011
+UnitedHealth Group health plan single affiliated covered entity MN 6678 12/15/2011 Other 12 2011
+Triumph, LLC NC 2000 12/13/2011 Theft 12 2011
+Fairview Health Services MN 14000 7/25/2011 Theft 7 2011
+Loma Linda University Medical Center (LLUMC) CA 1366 12/19/2011 Other 12 2011
+Ford Motor Company Salaried Health Reimbursement Arrangement (HRA) Plan MI 1700 12/29/2011 Other 12 2011
+Medco Health Solutions, Inc. NJ 1287 11/30/2011 Theft 11 2011
+Goshen Health System, Inc. IN 660 12/22/2011 Hacking 12 2011
+Ochsner Health System LA 2088 1/19/2012 Loss 1 2012
+Applegate Valley Family Medicine OR 2300 12/01/2011-12/17/2011 Theft 12 2011
+CardioNet, Inc. PA 728 12/29/2011 Theft 12 2011
+Presbyterian Healthcare Services NM 7000 12/29/2011 Theft 12 2011
+Lee Miller Rehabilitation Associates MD 10480 1/15/2012 Theft 1 2012
+Jeremaih J. Twomey, F.A.C.P., P.A. TX 2559 12/31/2011 Theft 12 2011
+Kern Medical Center  CA 1431 2/25/2012 Theft 2 2012
+William F. DeLuca Jr., M.D. NY 577 1/16/2012 Theft 1 2012
+Advanced Clinical Research Institute CA 875 1/26/2012 Theft 1 2012
+Georgia Health Sciences University GA 513 1/18/2012 Theft 1 2012
+Baylor Heart and Vascular Center, LLP TX 1972 1/26/2012 Theft 1 2012
+Chicago Musculoskeletal Institute/Metro Orthopedics IL 750 12/31/2011 Other 12 2011
+Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company MA 3482 01/17/2012-02/02/2012 Other 01 2012
+UnitedHealth Group health plan single affiliated covered entity MN 3537 6/28/2011 Unauthorized Access 6 2011
+CenterLight Healthcare NY 642 1/27/2012 Unauthorized Access 1 2012
+Lake Granbury Medical Center TX 502 2/13/2012 Theft 2 2012
+County of Wayne Department of Personnel/Human Resources Benefits Administration Division MI 1229 3/16/2012 Unauthorized Access 3 2012
+Utah Department of Health UT 780000 03/10/2012-04/02/2012 Hacking 03 2012
+Rhinebeck Health Center/Center for Progressive Medicine NY 6745 11/15/2011-12/14/2011 Theft 11 2011
+Roy E. Gondo, M.D. WA 2100 2/21/2012 Theft 2 2012
+DRD Management, Inc. D/B/A DRD Knoxville Medical Clinic - Central TX 1000 2/16/2012 Improper Disposal 2 2012
+Rex Smith, DPM -Rex Smith Podiatry  OR 20915 2/19/2012 Theft 2 2012
+University of Arkansas for Medical Sciences AR 7121 2/15/2012 Unauthorized Access 2 2012
+TLC DENTAL DANIA, LLC FL 750 4/23/2012 Theft 4 2012
+Oregon Health Authority OR 550 4/13/2012 Theft 4 2012
+SHIELDS For Families  CA 961 2/27/2012 Theft 2 2012
+Safe Ride Services, Inc AZ 42000 8/31/2011 Unauthorized Access 8 2011
+University of Houston for UH College of Optometry TX 7000 02/22/2012-02/23/2012 Unauthorized Access 02 2012
+Rite Aid Store 1343 WV 2905 3/26/2012 Theft 3 2012
+Hogan Services Inc. Health Care Premium Plan MO 1134 3/30/2012 Unauthorized Access 3 2012
+Family HealthServices Minnesota, P.A. MN 4000 3/30/2012 Theft 3 2012
+Fairview Health Services MN 623 7/25/2011 Theft 7 2011
+Our Lady of the Lake Regional Medical Center LA 17000 3/16/2012 Theft 3 2012
+Duke University Health System NC 591 04/21/2004-02/16/2012 Unauthorized Access 04 2004
+Luz Colon, DPM  Podiatry  FL 1137 3/20/2012 Theft 3 2012
+Ameritas Life Insurance Corp.  NE 3000 3/21/2012 Theft 3 2012
+Children's Hospital Boston MA 2159 3/25/2012 Theft 3 2012
+Upper Valley Medical Center OH 15000 10/01/2010-03/21/2012 Unauthorized Access 10 2010
+Phoebe Putney Memorial Hospital, Inc.  GA 12937 07/26/2010-03/29/2012 Theft 07 2010
+Titus Regional Medical Center TX 5700 3/27/2012 Loss 3 2012
+Titus Regional Medical Center TX 500 3/29/2012 Theft 3 2012
+Lutheran Community Services Northwest WA 756 03/29/2012-03/30/2012 Theft 03 2012
+Volunteer State Health Plan, Inc.  TN 1102 03/16/2012-04/20/2012 Loss 03 2012
+Charlie Norwood VA Medical Center GA 824 3/30/2012 Loss 3 2012
+Robert Witham, MD, FACP OR 11136 4/16/2012 Theft 4 2012
+Memorial Sloan-Kettering Cancer Center NY 568 08/13/2009-04/12/2012 Theft 08 2009
+Gessler Clinic, P.A. FL 1409 05/03/2012-05/04/2012 Theft 05 2012
+Wolf & Yun KY 824 4/24/2012 Theft 4 2012
+Karen Kietzman MT 708 4/22/2012 Theft 4 2012
+Bruce G. Peller, DMD, PA NC 9953 4/22/2012 Unauthorized Access 4 2012
+Sharon L. Rogers, Ph.D., ABPP TX 585 6/16/2012 Theft 6 2012
+SwedishAmerican Health System IL 1500 5/31/2012 Theft 5 2012
+Visiting Nurse Services of Iowa IA 1298 5/27/2012 Theft 5 2012
+Molalla Family Dental OR 4354 5/17/2012 Unauthorized Access 5 2012
+Pamlico Medical Equipment LLC NC 2917 5/16/2012 Loss 5 2012
+Beth Israel Deaconess Medical Center MA 3900 5/22/2012 Theft 5 2012
+NYU School of Medicine Faculty Group Practice NY 8488 5/22/2012 Theft 5 2012
+The Surgeons of Lake County, LLC IL 7067 06/22/2012-06/25/2012 Other 06 2012
+Kindred Healthcare Inc d/b/a Kindred Transitional Care and Rehabilitation-Sellersburg IN 1504 06/01/2012-06/04/2012 Theft 06 2012
+Jeffrey Paul Edelstein M.D. AZ 4800 5/28/2012 Theft 5 2012
+VNA HealthCare CT 7461 6/25/2012 Theft 6 2012
+Hartford Hospital CT 2097 6/25/2012 Theft 6 2012
+Howard University Hospital DC 66601 1/25/2012 Theft 1 2012
+The University of Texas MD Anderson Cancer Center TX 2264 7/13/2012 Loss 7 2012
+Central States Southeast and Siouthwest Areas Health & Welfare Fund IL 754 7/31/2012 Unauthorized Access 7 2012
+LANA MEDICAL CARE FL 500 8/18/2012 Theft 8 2012
+Cancer Care Group, P.C. IN 55000 7/19/2012 Theft 7 2012
+Tricounty Behavioral Health Clinic GA 4000 8/26/2012 Theft 8 2012
+Sierra Plastic Surgery NV 800 08/19/2011-09/20/2011 Unauthorized Access 08 2011
+Charlotte Clark-Neitzel, MD WA 942 7/24/2012 Theft 7 2012
+University of Miami FL 64846 7/18/2012 Unauthorized Access 7 2012
+University of New Mexico Health Sciences Center NM 2365 5/21/2012 Hacking 5 2012
+Valley Plastic Surgery, P.C. VA 4873 7/15/2012 Theft 7 2012
+Colon & Digestive Health Specialists AR 5713 7/16/2012 Loss 7 2012
+BHcare, Inc CT 5827 7/19/2012 Theft 7 2012
+St. Therese Medical Group, Inc CA 3031 7/22/2012 Theft 7 2012
+Cabinet for Health and Family Services, Department for Community Based Services (Protection and Permanency) KY 2500 7/20/2012 Unauthorized Access 7 2012
+Apria Healthcare, Inc. CA 65700 6/14/2012 Theft 6 2012
+Alexander J. Tikhtman, M.D. KY 2376 8/15/2012 Loss 8 2012
+Gulf Coast Health Care Services Inc FL 13000 8/17/2012 Theft 8 2012
+Blount Memorial Hospital, Inc TN 27799 8/25/2012 Theft 8 2012
+Alere Home Monitoring, Inc CA 116506 9/23/2012 Theft 9 2012
+ Philip P Corneliuson, DDS, INC. CA 980 9/15/2012 Theft 9 2012
+Logan Community Resources, Inc. IN 2900 8/24/2012 Hacking 8 2012
+David DiGiallorenzo, D.M.D. PA 2600 9/17/2012 Unauthorized Access 9 2012
+CVS Caremark RI 955 8/13/2012 Theft 8 2012
+Memorial Hospital OH 500 8/29/2012 Improper Disposal 8 2012
+SURGICAL ASSOCIATES OF UTICA, PC NY 1017 9/18/2012 Theft 9 2012
+Illinois Department of Healthcare and Family Services IL 508 8/31/2012 Theft 8 2012
+Women & Infants Hospital of Rhode Island RI 14004 9/13/2012 Loss 9 2012
+CHRISTUS St. John Hospital TX 5748 9/25/2012 Loss 9 2012
+L.A. Care Health Plan CA 18000 09/17/2012-09/20/2012 Other 09 2012
+Hawaii State Department of Health, Adult Mental Health Division HI 674 9/25/2012 Hacking 9 2012
+Soundental Associates, PC CT 14511 9/24/2012 Theft 9 2012
+Brigham and Women's Hospital MA 615 10/16/2012 Theft 10 2012
+St. Francis Health Network, aka Franciscan Alliance ACO IN 2575 10/19/2012 Other 10 2012
+City of Covington Kentucky Fire Department  KY 1548 06/15/2012-10/01/2012 Theft 06 2012
+Northern Trust IL 500 9/13/2012 Unauthorized Access 9 2012
+City of Atlanta/ Atlanta Fire Rescue Department GA 908 06/15/2012-10/01/2012 Theft 06 2012
+Osceola County EMS  FL 949 06/15/2012-10/01/2012 Theft 06 2012
+City of Gloucester, Fire Department MA 1286 06/15/2012-10/01/2012 Theft 06 2012
+Columbia University Medical Center and NewYork-Presbyterian Hospital NY 4929 10/12/2012-10/15/2012 Theft 10 2012
+Baptist Health System AR 811 10/13/2012-10/27/2012 Other 10 2012
+University of Michigan Health System MI 3999 11/14/2012 Theft 11 2012
+Richard Switzer MD PC MI 4100 11/29/2011 Other 11 2011
+Gibson General Hospital IN 28893 11/27/2012 Theft 11 2012
+Cabinet for Health & Family Services, Department of Medicaid Services KY 1090 11/15/2012 Hacking 11 2012
+Sentara Healthcare VA 56820 11/14/2012 Theft 11 2012
+St. Mark's Medical Center TX 2988 5/21/2012 Hacking 5 2012
+Group Health Incorporated NY 1771 11/13/2012 Theft 11 2012
+Dimensions Healthcare System MD 635 11/16/2012 Unauthorized Access 11 2012
+SilverScript Insurance Company AZ 852 10/31/2012 Unauthorized Access 10 2012
+South Jersey Hospital Inc. NJ 8555 11/14/2012 Theft 11 2012
+Child & Family Psychological Services, Inc. MA 7250 10/18/2012-10/29/2012 Hacking 10 2012
+South Shore Medical Center MA 4100 01/01/2007-11/15/2012 Hacking 01 2007
+Lee D. Pollan, DMD, PC NY 19178 11/06/2012-11/15/2012 Theft 11 2012
+Washington University School of Medicine MO 1105 11/28/2012 Theft 11 2012
+Riderwood Village MD 3230 11/18/2012 Theft 11 2012
+Baptist Health System TX 678 8/14/2011 Unauthorized Access 8 2011
+Baillie Lumber Co. Group Health Plan NY 725 11/27/2012 Theft 11 2012
+The University of Texas MD Anderson Cancer Center TX 29021 4/30/2012 Theft 4 2012
+Western Wisconsin Medical Association, S.C. - River Falls Medical Clinics WI 2400 05/30/2012-08/31/2012 Theft 05 2012
+Boy Scouts of America Employee Benefit Plan TX 8911 09/15/2012-11/30/2012 Theft 09 2012
+Intervention Services, Inc. FL 1200 1/19/2013 Theft 1 2013
+West Georgia Ambulance GA 500 12/13/2012 Loss 12 2012
+Center for Pain Management, LLC MD 5822 1/22/2013 Theft 1 2013
+Froedtert Health WI 43549 10/27/2012-12/13/2012 Unauthorized Access 10 2012
+Riderwood Village MD 5270 11/18/2012 Theft 11 2012
+Kindred Healthcare, Inc. d/b/a Kindred Transitional Care and Rehabilitation - Marl MA 716 12/15/2012-12/17/2012 Theft 12 2012
+HomeCare of Mid-Missouri, Inc. MO 4027 12/14/2012 Theft 12 2012
+ABQ HealthPartners NM 778 12/20/2012 Theft 12 2012
+Florida Healthy Kids Corporation FL 3667 11/01/2012-12/20/2012 Unauthorized Access 11 2012
+Stronghold Counseling Services Inc SD 8500 12/24/2012 Theft 12 2012
+Arizona Oncology AZ 501 11/21/2012 Theft 11 2012
+Crescent Health Inc. - a Walgreens Company CA 109000 12/28/2012 Theft 12 2012
+The Brookdale University Hospital and Medical Center NY 28187 9/21/2012 Theft 9 2012
+Ultra Stores, Inc. IL 500 9/13/2012 Unauthorized Access 9 2012
+Maine Medical Center ME 1920 2/27/2013 Other 2 2013
+Utah Department of Health  UT 6332 01/10/2013-01/11/2013 Loss 01 2013
+Empire Blue Cross Blue Shield IN 2608 11/01/2011-10/01/2012 Theft 11 2011
+Anthem Blue Cross Blue Shield (OH) IN 1678 11/01/2011-10/01/2012 Theft 11 2011
+Anthem Blue Cross Blue Shield (IN) IN 528 11/01/2011-10/01/2012 Theft 11 2011
+HealthCare for Women, Inc. MA 8727 01/18/2013-01/23/2013 Hacking 01 2013
+University of Mississippi Medical Center MS 500 11/01/2012-01/19/2013 Loss 11 2012
+Granger Medical Clinic UT 2600 1/17/2013 Theft 1 2013
+Texas Tech Unversity Health Sciences Center TX 697 2/18/2013 Unauthorized Access 2 2013
+Carpenters Health & Welfare Trust Fund for California CA 2400 03/11/2013-03/12/2013 Unauthorized Access 03 2013
+Shands Jacksonville Medical Center, Inc. FL 1025 05/02/2012-06/22/2012 Theft 05 2012
+Kmart Corporation IL 12542 3/17/2013 Theft 3 2013
+Hospice and Palliative Care Center of Alamance Caswell NC 5370 2/24/2013 Theft 2 2013
+Network Health Insurance Corporation WI 3794 2/27/2012 Unauthorized Access 2 2012
+John J. Pershing VA Medical Center MO 589 2/20/2013 Theft 2 2013
+Oregon Health & Science University OR 1076 2/22/2013 Theft 2 2013
+Schneck Medical Center IN 3131 3/14/2013 Unauthorized Access 3 2013
+The Guidance Center of Westchester NY 1416 2/21/2013 Theft 2 2013
+IHC Health Services, Inc. dba Intermountain Life Flight UT 857 3/28/2013 Unauthorized Access 3 2013
+Valley Mental Health UT 700 2/27/2013 Theft 2 2013
+Delta Dental of Pennsylvania PA 14829 3/20/2013 Loss 3 2013
+Raleigh Orthopaedic Clinic NC 17300 1/15/2013 Theft 1 2013
+Laboratory Corporation of America NC 1580 3/15/2013 Theft 3 2013
+Arizona Counseling & Treatment Services, LLC AZ 3800 03/18/2013-03/25/2013 Theft 03 2013
+Wood County Hospital OH 2500 3/19/2013 Theft 3 2013
+University of Rochester Medical Center & Affiliates NY 537 2/15/2013 Loss 2 2013
+Piedmont HealthCare, P.A. NC 1924 3/28/2013 Hacking 3 2013
+Dent Neurologic Group, LLP NY 10000 5/13/2013 Other 5 2013
+Comfort Dental Marion and Kokomo IN 5388 03/14/2013-03/18/2013 Improper Disposal 03 2013
+Erskine Family Dentistry IN 2723 3/19/2013 Hacking 3 2013
+Health Resources of Arkansas AR 1900 4/14/2013 Theft 4 2013
+Various Health Plans AL 3164 04/14/2013-04/15/2013 Theft 04 2013
+Sonoma Valley Hospital CA 1386 2/14/2013 Other 2 2013
+Community Support Services, Inc. OH 1167 03/20/2013-03/26/2013 Theft 03 2013
+UMASSAmherst MA 1670 10/22/2012 Hacking 10 2012
+Fayetteville VAMC NC 1093 4/17/2013 Improper Disposal 4 2013
+Lincoln County Health and Human Services/Lincoln Community Health Center OR 959 4/17/2013 Unauthorized Access 4 2013
+Union Security Insurance Company MO 1127 5/17/2013 Improper Disposal 5 2013
+Gulf Breeze Family Eyecare, Inc FL 9626 03/08/2013-05/09/2013 Theft 03 2013
+Jacksonville Spine Center FL 5200 4/25/2013 Unauthorized Access 4 2013
+Iowa Department of Human Services IA 7335 4/30/2013 Loss 4 2013
+Lone Star Circle of Care TX 1955 05/01/2013-05/02/2013 Theft 05 2013
+Indiana Family & Social Services Administration IN 187533 04/06/2013-05/21/2013 Other 04 2013
+Northrop Grumman Retiree Health Plan VA 4305 5/20/2013 Theft 5 2013
+South Florida Neurology Associates, P.A. FL 900 05/25/2013-05/30/2013 Theft 05 2013
+Samaritan Regional Health System OH 2203 5/29/2013 Other 5 2013
+MED-EL Coproration NC 609 6/25/2013 Other 6 2013
+Delta Dental of Pennsylvania PA 4718 5/13/2013 Loss 5 2013
+Medtronic, Inc. MN 2764 03/28/2013-03/29/2013 Loss 03 2013
+Long Beach Memorial Medical Center CA 2864 09/01/2012-07/01/2013 Unauthorized Access 09 2012
+Hansen & Associates WY 2700 05/21/2013-05/29/2013 Theft 05 2013
+Sheet Metal Local 36 Welfare Fund MO 4560 08/01/2012-07/08/2013 Unauthorized Access 08 2012
+San Jose Medical Supply Co., Inc. CA 800 10/01/2011-11/31/2011 Theft 10 2011
+GEO Care, LLC FL 710 4/16/2013 Unauthorized Access 4 2013
+The Brookdale Hospital and Medical Center NY 2700 5/24/2013 Loss 5 2013
+Oregon Health & Science University OR 1361 01/01/2011-07/03/2013 Unauthorized Access 01 2011
+Arkansas Department of Human Services AR 1911 4/14/2013 Theft 4 2013
+Baylor All Saints Medical Center at Fort Worth TX 940 05/07/2013-06/06/2013 Unauthorized Access 05 2013
+Cogent Healthcare, Inc. TN 32151 05/05/2013-06/24/2013 Unauthorized Access 05 2013
+Foundations Recovery Network TN 5690 6/15/2013 Theft 6 2013
+California Correctional Health Care Services CA 1033 6/19/2013 Other 6 2013
+North Texas Comprehensive Spine & Pain Center TX 3200 6/16/2013 Theft 6 2013
+Advocate Health and Hospitals Corporation, d/b/a Advocate Medical Group IL 4029530 7/15/2013 Theft 7 2013
+Summit Community Care Clinic, Inc. CO 921 7/22/2013 Hacking 7 2013
+UT Physicians TX 596 07/22/2013-08/02/2013 Theft 07 2013
+St. Anthony's Physician Organization MO 2600 7/29/2013 Theft 7 2013
+Olson & White Orthodontics MO 10000 7/22/2013 Theft 7 2013
+Kaiser Foundation Health Plan of the Northwest OR 647 3/15/2013 Unauthorized Access 3 2013
+Hankyu Chung, M.D. CA 2182 6/17/2013 Theft 6 2013
+NHC HealthCare, Mauldin SC 4204 5/15/2013 Improper Disposal 5 2013
+Holy Cross Hospital, Inc. FL 9900 8/14/2013 Theft 8 2013
+Region Ten Community Services Board VA 10228 7/29/2013 Hacking 7 2013
+Sarah Benjamin, DPM - Littleton Podiatry  CO 3512 8/27/2013 Theft 8 2013
+Carol L. Patrick, Ph.D. OH 517 08/08/2013-08/09/2013 Theft 08 2013
+UnityPoint Health Affiliated Covered Entity (\UnityPoint\) IA 1825 02/01/2013-08/27/2013 Unauthorized Access 02 2013
+Reconstructive Orthopaedic Associates II, P.C. d/b/a Rothman Institute PA 2350 03/18/2013-05/13/2013 Theft 03 2013
+Group Health Cooperative WA 1015 9/16/2013 Other 9 2013
+Saint Louis University MO 3100 7/25/2013 Unauthorized Access 7 2013
+MUSC Physicians & MUHA SC 7120 6/30/2013 Hacking 6 2013
+Access Counseling, LLC IN 566 8/23/2013 Theft 8 2013
+North Country Hospital and Health Center, Inc VT 550 9/18/2013 Theft 9 2013
+Hope Community Resources, Inc. AK 1556 8/19/2013 Unauthorized Access 8 2013
+Texas Health Presbyterian Dallas Hospital TX 949 8/22/2013 Theft 8 2013
+BRONX-LEBANON HOSPITAL CENTER NY 10930 9/23/2009 Unauthorized Access 9 2009
+Martin Luther King Jr. Health Center, Inc. NY 37000 9/23/2009 Unauthorized Access 9 2009
+SSM St. Mary's Health Center MO 1300 7/25/2013 Unauthorized Access 7 2013
+SSM Health Care of Wisconsin DBA: St. Mary's Janesville Hospital WI 631 8/27/2013 Theft 8 2013
+Greater Dallas Orthopaedics, PLLC TX 5840 8/30/2013 Theft 8 2013
+Spirit Home Health Care, Corp FL 603 9/19/2013 Improper Disposal 9 2013
+Comprehensive Psychological Services LLC SC 3500 10/28/2013 Theft 10 2013
+Genesis Rehabilitation Services PA 1167 8/30/2013 Loss 8 2013
+Barnabas Health Medical Group NJ 1100 9/24/2013 Theft 9 2013
+Blue Cross and Blue Shield of North Carolina NC 687 10/14/2013 Unauthorized Access 10 2013
+North Carolina Department of Health and Human Services - Division of State Operated Health Care Facilities   NC 1315 8/13/2013 Unauthorized Access 8 2013
+Puerto Rico Health Insurance Administration (PRHIA) PR 13336 9/20/2013 Unauthorized Access 9 2013
+Triple-S Salud  PR 70189 9/20/2013 Unauthorized Access 9 2013
+Gerdau Ameristeel Health and Welfare Plan FL 3804 9/27/2013 Theft 9 2013
+Gerdau Macsteel Health and Welfare Plan MI 4837 9/27/2013 Theft 9 2013
+UHS-Pruitt Corporation GA 1300 9/26/2013 Theft 9 2013
+United Dynacare, LLC dba Dynacare Laboratories WI 9328 10/22/2013 Theft 10 2013
+Kaiser Foundation Hospital- Orange County CA 49000 9/25/2013 Loss 9 2013
+Jones Chiropractic and Maximum Health IN 1500 10/13/2013 Theft 10 2013
+Ronald Schubert MD PLLC WA 950 11/22/2013 Theft 11 2013
+Health Help, Inc. KY 535 10/15/2013 Theft 10 2013
+New Jersey Department of Human Services NJ 9642 10/18/2013 Loss 10 2013
+Wyoming Department of Health WY 11935 10/16/2013 Unauthorized Access 10 2013
+South Carolina Health Insurance Pool SC 3432 10/16/2013 Theft 10 2013
+Tennova Cardiology TN 2777 10/21/2013 Theft 10 2013
+Delta Dental of Pennsylvania PA 1674 10/16/2013 Loss 10 2013
+Rob Meaglia, DDS CA 1400 12/16/2013 Theft 12 2013
+Jeff Spiegel MA 832 11/25/2013 Unauthorized Access 11 2013
+Florida Department of Health FL 2354 10/30/2013 Unauthorized Access 10 2013
+New Mexico Oncology Hematology Consultants, LTD NM 12354 11/13/2013 Theft 11 2013
+Department of Health Care Policy & Financing CO 1918 11/21/2013 Unauthorized Access 11 2013
+Coulee Medical Center WA 2500 01/01/2010-11/30/2013 Unauthorized Access 01 2010
+University of Pennsylvania Health System PA 3000 11/26/2013 Other 11 2013
+North Carolina Department of Health and Human Services  NC 48752 12/30/2013 Unauthorized Access 12 2013
+101 FAMILY MEDICAL GROUP CA 2500 11/23/2013 Theft 11 2013
+Tri Lakes Medical Center MS 1489 9/20/2013 Hacking 9 2013
+VA Dept. of Medical Assistance Services VA 25513 11/15/2013 Unauthorized Access 11 2013
+Urology Centers of Alabama PC and Urology Health Foundation AL 1085 8/22/2013 Other 8 2013
+Medical Mutual of Ohio OH 1420 10/16/2013 Unauthorized Access 10 2013
+St. Joseph Health System  TX 405000 12/16/2013 Hacking 12 2013
+Min Yi, M.D. CA 4676 5/28/2013 Theft 5 2013
+RGH Enterprises, Inc. OH 4230 03/09/2013-03/11/2013 Theft 03 2013
+Network Pharmacy Knoxville TN 9602 11/18/2013 Theft 11 2013
+Saint Francis Hospital and Medical Center CT 858 12/27/2013 Theft 12 2013
+Hospital for Special Surgery NY 937 3/19/2013 Theft 3 2013
+WA State Department of Social & Health Services WA 3104 8/19/2013 Unauthorized Access 8 2013
+University of Miami FL 13074 6/27/2013 Loss 6 2013
+Health Care Solutions at Home Inc. OH 1139 12/17/2013 Other 12 2013
+University of California Davis Medical Center CA 2269 12/13/2013 Hacking 12 2013
+St. Vincent Hospital and Healthcare, Inc IN 1142 12/23/2013 Theft 12 2013
+Missouri Consolidated Health Care Plan MO 10024 3/23/2012 Unauthorized Access 3 2012
+The Clorox Company Group Insurance Plan CA 520 4/16/2012 Unauthorized Access 4 2012
+Regents of the University of Minnesota MN 4786 3/29/2012 Unauthorized Access 3 2012
+Inspira Health Network Inc. NJ 1411 12/23/2013 Theft 12 2013
+HealthSource of Ohio Inc. OH 8845 11/18/2013 Unauthorized Access 11 2013
+The Kroger Co., for itself and its affiliates and subsidiaries OH 504 10/30/2013 Other 10 2013
+Cornerstone Health Care, PA NC 548 12/31/2013 Theft 12 2013
+All for Kids Pediatric Clinic AR 600 12/27/2013 Other 12 2013
+Eureka Internal Medicine CA 3534 9/25/2013 Improper Disposal 9 2013
+Brazos Valley Pathology TX 3300 12/16/2013 Hacking 12 2013
+Banner Health AZ 55207 2/21/2014 Other 2 2014
+Monarch Women's Health AL 1145 8/22/2013 Hacking 8 2013
+Punuru J.M. Reddy, MD, Inc. AL 1179 8/22/2013 Hacking 8 2013
+Mission City Community Network CA 7800 5/31/2013 Theft 5 2013
+Partners In Nephrology & Endocrinology, P.C. PA 5000 11/13/2013 Other 11 2013
+Todd M. Burton, M.D. TX 5000 1/13/2014 Theft 1 2014
+Hospitalists of Arizona AZ 1706 12/31/2013 Theft 12 2013
+Berea College KY 1000 1/24/2012 Other 1 2012
+Orlando Health, Inc. FL 586 1/28/2014 Loss 1 2014
+NOVA Chiropractic & Rehab Center VA 5534 1/30/2014 Loss 1 2014
+Jewish Hospital KY 2992 1/15/2014 Other 1 2014
+Franciscan Medical Group WA 8300 1/15/2014 Other 1 2014
+Palomar Health CA 5499 2/21/2014 Theft 2 2014
+Florida Healthy Kids Corporation FL 580 11/13/2013 Unauthorized Access 11 2013
+Kaiser Permanente Northern CA Department of Research CA 5178 10/18/2011 Hacking 10 2011
+State Long Term Care Ombudsman's Office, Michigan Department of Community Health MI 2595 1/30/2014 Theft 1 2014
+Presence St. Joseph's Medical Center IL 836 10/22/2013 Other 10 2013
+BLUE CROSS AND BLUE SHIELD OF KANSAS CITY MO 2546 8/16/2013 Unauthorized Access 8 2013
+Healthy Connections, Inc CA 793 3/25/2014 Loss 3 2014
+Greenwood Leflore Hospital MS 3750 2/23/2014 Theft 2 2014
+Maryland Developmental Disabilities Administration MD 10766 11/27/2013 Unauthorized Access 11 2013
+Los Robles Hospital and Medical Center CA 2523 2/14/2014 Theft 2 2014
+Shaker Clinic OH 617 2/18/2014 Loss 2 2014
+VGM Homelink IA 1400 2/28/2014 Other 2 2014
+The Union Labor Life Insurance Company MD 46771 2/17/2014 Theft 2 2014
+Coordinated Health PA 733 2/21/2014 Theft 2 2014
+Willis North America Inc. Medical Expense Benefit Plan NY 4830 3/19/2014 Unauthorized Access 3 2014
+Sorenson Communications/CaptionCall Group Health Plan UT 9800 2/20/2014 Hacking 2 2014
+Baylor Medical Center at McKinney TX 1253 1/23/2014 Hacking 1 2014
+Baylor Medical Center at Irving TX 2308 1/23/2014 Hacking 1 2014
+Baylor Regional Medical Center at Plano TX 1981 1/23/2014 Hacking 1 2014
+HealthTexas Provider Network TX 2742 1/23/2014 Hacking 1 2014
+Iowa Medicaid Enterprise IA 862 2/26/2014 Unauthorized Access 2 2014
+The City of Henderson KY 1008 6/27/2012 Other 6 2012
+Molina Healthcare of California Partner Plan, Inc. CA 4744 3/18/2014 Other 3 2014
+Howard L. Weinstein D.P.M. TX 1000 3/13/2014 Theft 3 2014
+American Health Inc.  PR 11531 9/20/2013 Unauthorized Access 9 2013
+Central City Concern OR 17914 3/23/2010 Unauthorized Access 3 2010
+Blue Cross Blue Shield of Michigan/Blue Care Network MI 502 2/15/2014 Unauthorized Access 2 2014
+Elliot Health System NH 1208 3/26/2014 Theft 3 2014
+Triple-S Salud  PR 56853 9/20/2013 Unauthorized Access 9 2013
+Highmark Inc. PA 2589 4/19/2014 Loss 4 2014
+Mark A. Gillispie CA 5845 11/20/2013 Theft 11 2013
+Penn State Milton S Hershey Medical Center PA 1801 9/13/2013 Other 9 2013
+St. Francis Hospital GA 1175 5/30/2014 Other 5 2014
+Puerto Rico Health Insurance  PR 28413 9/20/2013 Theft 9 2013
+Group Health Plan of Hurley Medical Center MI 2289 5/13/2014 Unauthorized Access 5 2014
+Abrham Tekola, M.D.,INC CA 5471 5/27/2014 Theft 5 2014
